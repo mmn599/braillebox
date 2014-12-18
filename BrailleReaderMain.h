@@ -1,0 +1,1 @@
+void newMessage(char* string, int size);
